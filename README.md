@@ -18,7 +18,7 @@ responses to "Truco" calls.
 
 How to run:
   
-  ```
+  ```bash
   > git clone https://github.com/vittordallacqua/truc-game.git
   > cd truc-game
   > javac src/**/*.java
@@ -31,5 +31,3 @@ Using VS Code:
 installed. This includes Language Support for Java™, Debugger for 
 Java, Maven for Java, Project Manager for Java, and Test Runner for 
 Java.
-  
-This project is licensed under the MIT License.
