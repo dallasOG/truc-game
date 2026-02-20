@@ -1,4 +1,5 @@
-### Truc Game in Java
+Truc Game in Java
+==================
 
 The project is structured using OOP principles, with separate 
 classes for different game components, promoting modularity and 
@@ -16,16 +17,8 @@ winner when a player reaches the target score, and ensures that
 all game rules are followed, including valid card plays and 
 responses to "Truco" calls.
 
-How to run:
-  
-  ```bash
-  > git clone https://github.com/vittordallacqua/truc-game.git
-  > cd truc-game
-  > javac src/**/*.java
-  > java -cp src Main
-  ```
-
-Using VS Code:
+Using VS Code
+==============
 
 * Make sure you have the "Extension Pack for Java" by Microsoft 
 installed. This includes Language Support for Java™, Debugger for 
